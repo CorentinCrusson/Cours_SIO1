@@ -1,0 +1,414 @@
+﻿body {
+
+margin-top : -1.7%;
+background-color: #a5dea5;
+
+}
+table
+{
+	transition-property : color ;
+	transition-duration : 1s;
+	border-color : black;
+	border-style : solid;
+	text-align : center;
+	margin: auto;
+    
+}
+
+table:hover
+{
+	border-color : red;
+    
+}
+
+h1
+{
+  position: absolute;
+  top: 5%;
+  left: 40%;
+	font-family:"inherit";
+	font-size : 36;
+	color : #f7f8e9;
+	text-align : center;  
+  text-shadow: 2px 2px 2px black;
+}
+
+
+h2
+{
+	text-align : center;
+	background : #CC041B;
+	color : white;
+	margin-top : 8%;
+}
+
+h3
+{
+  position: absolute;
+  top: 60%;
+  left: 45%;
+	text-align : center ;
+	font-family:"inherit";
+  font-size : 30;
+  color : #2985db;
+  text-shadow: 2px 6px 6px white;
+}
+
+.cadreHautLogo {
+  position: absolute;
+  left: 0.01%;
+  top: 0.01%;
+}
+
+.texteMilieu {
+  position: absolute;
+  top: 50%;
+  left: 30%;
+  text-align : center ;
+  font-family:"inherit";
+  font-size: 18;
+}
+
+/* Les boutons valider et supprimer */
+input[type="reset"] {
+  position: relative;
+  top: 10;
+  right: 5;
+  border-radius:12px 0 12px 0;
+  background: #d34836;
+  border:none;
+  color:#fff;
+  font:bold 12px Verdana;
+  padding:6px 0 6px 0;
+}
+
+input[type="reset"]:hover {
+  background: #eb3a1f;
+}
+
+input[type="submit"] {
+  position: relative;
+  top: 10;
+  left: 5;
+  border-radius:12px 0 12px 0;
+  background: #19bb59;
+  border:none;
+  color:#fff;
+  font:bold 12px Verdana;
+  padding:6px 0 6px 0;
+}
+
+input[type="submit"]:hover {
+  background: #1feb85;
+}
+
+/*--------------------------------------
+------------- TABLEAU ------------------
+---------------------------------------*/ 
+
+/* Paramètres pour la totalité du tableau */
+table {
+  width: 500px ;
+  margin: auto ;
+  border-collapse: collapse ;
+}
+
+/* Paramètres pour les cellules classiques ET les cellules d'en-tête */
+table th, table td {
+  border: 1px solid #8f10ff ; 
+  padding: 5px ;
+}
+
+/* Paramètres pour les lignes d'en-tête uniquement */
+table thead tr {
+  background-color: #8f10ff ;
+  color: #ffffff ; 
+}
+
+/* Paramètres pour les lignes de contenu */
+table tbody tr {
+  background-color: #f2ecfe ;
+}
+
+/* Paramètres pour les lignes de contenu paires */
+table tbody tr:nth-child(2n) { 
+  background-color: #f9f6ff ;
+}
+
+/* Paramètres pour les lignes de contenu au survol de la souris */
+table tbody td:hover { 
+  background-color: #9865ad;
+  color: #ffffff ; 
+}
+
+/* Le centre de la page */
+.centrePage
+{
+	position : absolute;
+	width:100%;
+	height:80%;
+	top : 30%;
+	text-align : center;
+	background-color: #a5dea5;
+	overflow:auto;
+	border-radius : 24px;
+	left : -1%;
+}
+
+/*---------------------
+------ Le Menu --------
+----------------------*/
+
+.menu
+{
+  position : absolute;
+  width:100%;
+  right : 0;
+  height: 0%;
+  top : 17%;
+  background-color:#FFF;
+  font-family : Helvetica;
+  
+}
+
+/*La barre du menu*/
+#menu-bar {
+  width: 90%;
+  padding: 5px 0px 0px 10%;
+  height: 35px;
+  line-height: 150%;
+  background: #2985db;
+  position:relative;
+  z-index:999;
+}
+
+/* Présentation Sous Menu */
+#menu-bar li {
+  margin: 0px 0px 6px 0px;
+  padding: 0px 5px 0px 0px;
+  float: left;
+  position: relative;
+  list-style: none;
+}
+
+
+#menu-bar a {
+  font-weight: bold;
+  font-family: arial;
+  font-style: Helvetica;
+  font-size: 16px;
+  color: #FFFFFF;
+  text-decoration: none;
+  display: block;
+  padding: 6px 20px 6px 20px;
+  margin: 0;
+  margin-bottom: 6px;
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+}
+#menu-bar li ul li a {
+  margin: 0;
+}
+#menu-bar .active a, #menu-bar li:hover > a {
+  background: #D42A6E;
+  background: linear-gradient(top,  #EBEBEB,  #A1A1A1);
+  background: -ms-linear-gradient(top,  #EBEBEB,  #A1A1A1);
+  background: -webkit-gradient(linear, left top, left bottom, from(#EBEBEB), to(#A1A1A1));
+  background: -moz-linear-gradient(top,  #EBEBEB,  #A1A1A1);
+  color: #444444;
+  -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, .2);
+  -moz-box-shadow: 0 1px 1px rgba(0, 0, 0, .2);
+  box-shadow: 0 1px 1px rgba(0, 0, 0, .2);
+  text-shadow: 2px 2px 3px #FFFFFF;
+}
+#menu-bar ul li:hover a, #menu-bar li:hover li a {
+  background: none;
+  border: none;
+  color: #666;
+  -box-shadow: none;
+  -webkit-box-shadow: none;
+  -moz-box-shadow: none;
+}
+#menu-bar ul a:hover {
+  background: #0399D4 !important;
+  background: linear-gradient(top,  #04ACEC,  #0186BA) !important;
+  background: -ms-linear-gradient(top,  #04ACEC,  #0186BA) !important;
+  background: -webkit-gradient(linear, left top, left bottom, from(#04ACEC), to(#0186BA)) !important;
+  background: -moz-linear-gradient(top,  #04ACEC,  #0186BA) !important;
+  color: #FFFFFF !important;
+  border-radius: 0;
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  text-shadow: 2px 2px 3px #FFFFFF;
+}
+#menu-bar li:hover > ul {
+  display: block;
+}
+#menu-bar ul {
+  background: #DDDDDD;
+  background: linear-gradient(top,  #FFFFFF,  #CFCFCF);
+  background: -ms-linear-gradient(top,  #FFFFFF,  #CFCFCF);
+  background: -webkit-gradient(linear, left top, left bottom, from(#FFFFFF), to(#CFCFCF));
+  background: -moz-linear-gradient(top,  #FFFFFF,  #CFCFCF);
+  display: none;
+  margin: 0;
+  padding: 0;
+  width: 185px;
+  position: absolute;
+  top: 30px;
+  left: 0;
+  border: solid 1px #B4B4B4;
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -webkit-box-shadow: 2px 2px 3px #222222;
+  -moz-box-shadow: 2px 2px 3px #222222;
+  box-shadow: 2px 2px 3px #222222;
+}
+#menu-bar ul li {
+  float: none;
+  margin: 0;
+  padding: 0;
+}
+#menu-bar ul a {
+  padding:10px 0px 10px 15px;
+  color:#424242 !important;
+  font-size:14px;
+  font-style:Helvetica;
+  font-family:arial;
+  font-weight: normal;
+  text-shadow: 2px 2px 3px #FFFFFF;
+}
+#menu-bar ul li:first-child > a {
+  border-top-left-radius: 10px;
+  -webkit-border-top-left-radius: 10px;
+  -moz-border-radius-topleft: 10px;
+  border-top-right-radius: 10px;
+  -webkit-border-top-right-radius: 10px;
+  -moz-border-radius-topright: 10px;
+}
+#menu-bar ul li:last-child > a {
+  border-bottom-left-radius: 10px;
+  -webkit-border-bottom-left-radius: 10px;
+  -moz-border-radius-bottomleft: 10px;
+  border-bottom-right-radius: 10px;
+  -webkit-border-bottom-right-radius: 10px;
+  -moz-border-radius-bottomright: 10px;
+}
+#menu-bar:after {
+  content: ".";
+  display: block;
+  clear: both;
+  visibility: hidden;
+  line-height: 0;
+  height: 0;
+}
+#menu-bar {
+  display: inline-block;
+}
+  html[xmlns] #menu-bar {
+  display: block;
+}
+* html #menu-bar {
+  height: 1%;
+}
+
+/*----DIAPORAMA*/
+
+.contener_slideshow
+{
+  position: absolute;
+  top: 300;
+  width:1200px;
+  height:600px;
+  overflow: hidden;
+  position: relative;
+  background-image: url(image.png);
+}
+.slid_1, .slid_2, .slid_3, .slid_4
+{
+  position: absolute;
+  width:610px;
+  height:300px;
+}
+
+.slid_1{
+  left: 0;
+}
+
+.slid_2{
+  left: 610px;
+}
+
+.slid_3{
+  left: 1220px;
+}
+.slid_4{
+  left: 1830px;
+}
+
+.contener_slide
+{
+  width: 1830px;
+  height: 300px;
+  left:0px;
+  position: absolute;
+  -webkit-animation-duration: 10s;
+  -webkit-animation-iteration-count:infinite;
+  -webkit-animation-name: anim_slide;
+  -moz-animation-duration: 10s;
+  -moz-animation-iteration-count:infinite;
+  -moz-animation-name: anim_slide;
+  -ms-animation-duration: 10s;
+  -ms-animation-iteration-count:infinite;
+  -ms-animation-name: anim_slide;
+  animation-duration: 10s;
+  animation-iteration-count:infinite;
+  animation-name: anim_slide;
+  
+}
+@-webkit-keyframes anim_slide 
+{
+  0% {left:0px;}
+  22% {left:0px;}
+  33% {left:-610px;}
+  45% {left:-610px;}
+  55% {left:-1220px;}
+  66% {left:-1220px;}
+  77% {left:-1830px;}
+  90% {left:-1830px;}
+}
+@-moz-keyframes anim_slide 
+{
+  0% {left:0px;}
+  22% {left:0px;}
+  33% {left:-610px;}
+  45% {left:-610px;}
+  55% {left:-1220px;}
+  66% {left:-1220px;}
+  77% {left:-1830px;}
+  90% {left:-1830px;}
+}
+@-ms-keyframes anim_slide 
+{
+  0% {left:0px;}
+  22% {left:0px;}
+  33% {left:-610px;}
+  45% {left:-610px;}
+  55% {left:-1220px;}
+  66% {left:-1220px;}
+  77% {left:-1830px;}
+  90% {left:-1830px;}
+}
+@keyframes anim_slide 
+{
+  0% {left:0px;}
+  22% {left:0px;}
+  33% {left:-610px;}
+  45% {left:-610px;}
+  55% {left:-1220px;}
+  66% {left:-1220px;}
+  77% {left:-1830px;}
+  90% {left:-1830px;}
+}

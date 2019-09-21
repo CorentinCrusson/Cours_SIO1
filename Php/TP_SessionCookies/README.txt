@@ -1,0 +1,1 @@
+L'indentifiant au lancement de la page est admin

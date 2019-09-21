@@ -1,0 +1,9 @@
+C:\Users\coco2\source\repos\SLAM2_tp5_libClasses\SLAM2_tp5_libClasses\bin\Debug\netstandard2.0\SLAM2_tp5_libClasses.deps.json
+C:\Users\coco2\source\repos\SLAM2_tp5_libClasses\SLAM2_tp5_libClasses\bin\Debug\netstandard2.0\SLAM2_tp5_libClasses.dll
+C:\Users\coco2\source\repos\SLAM2_tp5_libClasses\SLAM2_tp5_libClasses\bin\Debug\netstandard2.0\SLAM2_tp5_libClasses.pdb
+C:\Users\coco2\source\repos\SLAM2_tp5_libClasses\SLAM2_tp5_libClasses\obj\Debug\netstandard2.0\SLAM2_tp5_libClasses.csprojAssemblyReference.cache
+C:\Users\coco2\source\repos\SLAM2_tp5_libClasses\SLAM2_tp5_libClasses\obj\Debug\netstandard2.0\SLAM2_tp5_libClasses.csproj.CoreCompileInputs.cache
+C:\Users\coco2\source\repos\SLAM2_tp5_libClasses\SLAM2_tp5_libClasses\obj\Debug\netstandard2.0\SLAM2_tp5_libClasses.AssemblyInfoInputs.cache
+C:\Users\coco2\source\repos\SLAM2_tp5_libClasses\SLAM2_tp5_libClasses\obj\Debug\netstandard2.0\SLAM2_tp5_libClasses.AssemblyInfo.cs
+C:\Users\coco2\source\repos\SLAM2_tp5_libClasses\SLAM2_tp5_libClasses\obj\Debug\netstandard2.0\SLAM2_tp5_libClasses.dll
+C:\Users\coco2\source\repos\SLAM2_tp5_libClasses\SLAM2_tp5_libClasses\obj\Debug\netstandard2.0\SLAM2_tp5_libClasses.pdb

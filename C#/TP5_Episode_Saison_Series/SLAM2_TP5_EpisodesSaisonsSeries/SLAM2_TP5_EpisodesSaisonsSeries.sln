@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SLAM2_TP5_EpisodesSaisonsSeries", "SLAM2_TP5_EpisodesSaisonsSeries\SLAM2_TP5_EpisodesSaisonsSeries.csproj", "{3FF78247-724B-4439-A76E-F560E4D23891}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccesLibrary", "DataAccesLibrary\DataAccesLibrary.csproj", "{EACE36AE-C3B3-442C-8954-645240CA351E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3FF78247-724B-4439-A76E-F560E4D23891}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FF78247-724B-4439-A76E-F560E4D23891}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FF78247-724B-4439-A76E-F560E4D23891}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FF78247-724B-4439-A76E-F560E4D23891}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EACE36AE-C3B3-442C-8954-645240CA351E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EACE36AE-C3B3-442C-8954-645240CA351E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EACE36AE-C3B3-442C-8954-645240CA351E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EACE36AE-C3B3-442C-8954-645240CA351E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {24A903A6-28B0-44CE-B982-7F9513A6FE03}
+	EndGlobalSection
+EndGlobal
