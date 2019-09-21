@@ -1,0 +1,812 @@
+C:\Users\btssio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\SLAM2_HENRI_TP3 Application CentreLoisirs.exe.config
+C:\Users\btssio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\SLAM2_HENRI_TP3 Application CentreLoisirs.exe
+C:\Users\btssio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\SLAM2_HENRI_TP3 Application CentreLoisirs.pdb
+C:\Users\btssio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\SLAM2_HENRI_TP3 Application CentreLoisirs.csprojAssemblyReference.cache
+C:\Users\btssio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\SLAM2_HENRI_TP3_Application_CentreLoisirs.Form1.resources
+C:\Users\btssio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\SLAM2_HENRI_TP3_Application_CentreLoisirs.FormAjoutActivite.resources
+C:\Users\btssio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\SLAM2_HENRI_TP3_Application_CentreLoisirs.Properties.Resources.resources
+C:\Users\btssio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\SLAM2_HENRI_TP3 Application CentreLoisirs.csproj.GenerateResource.cache
+C:\Users\btssio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\SLAM2_HENRI_TP3 Application CentreLoisirs.csproj.CoreCompileInputs.cache
+C:\Users\btssio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\SLAM2_HENRI_TP3 Application CentreLoisirs.exe
+C:\Users\btssio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\SLAM2_HENRI_TP3 Application CentreLoisirs.pdb
+C:\Users\btssio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\btssio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\netstandard.dll
+C:\Users\btssio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.AppContext.dll
+C:\Users\btssio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\btssio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Collections.dll
+C:\Users\btssio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\btssio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Collections.Specialized.dll
+C:\Users\btssio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.ComponentModel.dll
+C:\Users\btssio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\btssio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\btssio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\btssio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Console.dll
+C:\Users\btssio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Data.Common.dll
+C:\Users\btssio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\btssio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\btssio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\btssio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\btssio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\btssio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\btssio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\btssio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\btssio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\btssio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\btssio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\btssio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\btssio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Globalization.dll
+C:\Users\btssio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\btssio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.IO.Compression.dll
+C:\Users\btssio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\btssio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.IO.dll
+C:\Users\btssio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.IO.FileSystem.dll
+C:\Users\btssio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\btssio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\btssio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\btssio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\btssio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\btssio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.IO.Pipes.dll
+C:\Users\btssio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\btssio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Linq.dll
+C:\Users\btssio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Linq.Expressions.dll
+C:\Users\btssio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Linq.Parallel.dll
+C:\Users\btssio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Linq.Queryable.dll
+C:\Users\btssio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Net.Http.dll
+C:\Users\btssio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Net.NameResolution.dll
+C:\Users\btssio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\btssio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Net.Ping.dll
+C:\Users\btssio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Net.Primitives.dll
+C:\Users\btssio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Net.Requests.dll
+C:\Users\btssio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Net.Security.dll
+C:\Users\btssio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Net.Sockets.dll
+C:\Users\btssio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\btssio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\btssio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Net.WebSockets.dll
+C:\Users\btssio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.ObjectModel.dll
+C:\Users\btssio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Reflection.dll
+C:\Users\btssio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\btssio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\btssio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Resources.Reader.dll
+C:\Users\btssio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\btssio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Resources.Writer.dll
+C:\Users\btssio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\btssio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Runtime.dll
+C:\Users\btssio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\btssio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Runtime.Handles.dll
+C:\Users\btssio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\btssio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\btssio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\btssio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\btssio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\btssio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\btssio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\btssio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Security.Claims.dll
+C:\Users\btssio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\btssio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\btssio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\btssio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\btssio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\btssio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Security.Principal.dll
+C:\Users\btssio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Security.SecureString.dll
+C:\Users\btssio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Text.Encoding.dll
+C:\Users\btssio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\btssio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\btssio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Threading.dll
+C:\Users\btssio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\btssio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Threading.Tasks.dll
+C:\Users\btssio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\btssio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Threading.Thread.dll
+C:\Users\btssio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\btssio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Threading.Timer.dll
+C:\Users\btssio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.ValueTuple.dll
+C:\Users\btssio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\btssio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Xml.XDocument.dll
+C:\Users\btssio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\btssio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\btssio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Xml.XPath.dll
+C:\Users\btssio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\btssio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\SLAM2_Henri_LibClasses.dll
+C:\Users\btssio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\SLAM2_Henri_LibClasses.pdb
+C:\Users\btssio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\SLAM2_HENRI_TP3 Application CentreLoisirs.exe.config
+C:\Users\btssio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\SLAM2_HENRI_TP3 Application CentreLoisirs.csproj.CopyComplete
+C:\Users\btssio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\SLAM2_HENRI_TP3_Application_CentreLoisirs.FormConnexion.resources
+C:\Users\sio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\SLAM2_HENRI_TP3 Application CentreLoisirs.csprojAssemblyReference.cache
+C:\Users\sio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\SLAM2_HENRI_TP3 Application CentreLoisirs.exe.config
+C:\Users\sio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\SLAM2_HENRI_TP3_Application_CentreLoisirs.Form1.resources
+C:\Users\sio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\SLAM2_HENRI_TP3_Application_CentreLoisirs.FormAjoutActivite.resources
+C:\Users\sio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\SLAM2_HENRI_TP3_Application_CentreLoisirs.FormConnexion.resources
+C:\Users\sio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\SLAM2_HENRI_TP3_Application_CentreLoisirs.Properties.Resources.resources
+C:\Users\sio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\SLAM2_HENRI_TP3 Application CentreLoisirs.csproj.GenerateResource.cache
+C:\Users\sio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\SLAM2_HENRI_TP3 Application CentreLoisirs.csproj.CoreCompileInputs.cache
+C:\Users\sio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\SLAM2_HENRI_TP3 Application CentreLoisirs.exe
+C:\Users\sio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\SLAM2_HENRI_TP3 Application CentreLoisirs.pdb
+C:\Users\sio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\SLAM2_HENRI_TP3 Application CentreLoisirs.exe.config
+C:\Users\sio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\SLAM2_HENRI_TP3 Application CentreLoisirs.exe
+C:\Users\sio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\SLAM2_HENRI_TP3 Application CentreLoisirs.pdb
+C:\Users\sio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\netstandard.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.AppContext.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Collections.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Collections.Specialized.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.ComponentModel.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Console.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Data.Common.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Globalization.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.IO.Compression.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.IO.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.IO.FileSystem.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.IO.Pipes.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Linq.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Linq.Expressions.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Linq.Parallel.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Linq.Queryable.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Net.Http.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Net.NameResolution.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Net.Ping.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Net.Primitives.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Net.Requests.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Net.Security.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Net.Sockets.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Net.WebSockets.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.ObjectModel.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Reflection.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Resources.Reader.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Resources.Writer.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Runtime.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Runtime.Handles.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Security.Claims.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Security.Principal.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Security.SecureString.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Text.Encoding.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Threading.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Threading.Tasks.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Threading.Thread.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Threading.Timer.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.ValueTuple.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Xml.XDocument.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Xml.XPath.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\SLAM2_Henri_LibClasses.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\SLAM2_Henri_LibClasses.pdb
+C:\Users\sio\source\repos\SLAM2_HENRI_TP3 Application CentreLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\SLAM2_HENRI_TP3 Application CentreLoisirs.csproj.CopyComplete
+C:\Users\sio\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\SLAM2_HENRI_TP3 Application CentreLoisirs.exe.config
+C:\Users\sio\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\SLAM2_HENRI_TP3 Application CentreLoisirs.exe
+C:\Users\sio\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\SLAM2_HENRI_TP3 Application CentreLoisirs.pdb
+C:\Users\sio\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\netstandard.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.AppContext.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Collections.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Collections.Specialized.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.ComponentModel.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Console.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Data.Common.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Globalization.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.IO.Compression.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.IO.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.IO.FileSystem.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.IO.Pipes.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Linq.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Linq.Expressions.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Linq.Parallel.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Linq.Queryable.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Net.Http.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Net.NameResolution.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Net.Ping.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Net.Primitives.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Net.Requests.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Net.Security.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Net.Sockets.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Net.WebSockets.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.ObjectModel.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Reflection.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Resources.Reader.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Resources.Writer.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Runtime.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Runtime.Handles.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Security.Claims.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Security.Principal.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Security.SecureString.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Text.Encoding.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Threading.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Threading.Tasks.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Threading.Thread.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Threading.Timer.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.ValueTuple.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Xml.XDocument.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Xml.XPath.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\SLAM2_Henri_LibClasses.dll
+C:\Users\sio\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\SLAM2_Henri_LibClasses.pdb
+C:\Users\sio\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\SLAM2_HENRI_TP3 Application CentreLoisirs.csprojAssemblyReference.cache
+C:\Users\sio\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\SLAM2_HENRI_TP3 Application CentreLoisirs.exe.config
+C:\Users\sio\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\SLAM2_HENRI_TP3_Application_CentreLoisirs.FormAjoutActivite.resources
+C:\Users\sio\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\SLAM2_HENRI_TP3_Application_CentreLoisirs.FormConnexion.resources
+C:\Users\sio\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\SLAM2_HENRI_TP3_Application_CentreLoisirs.Properties.Resources.resources
+C:\Users\sio\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\SLAM2_HENRI_TP3 Application CentreLoisirs.csproj.GenerateResource.cache
+C:\Users\sio\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\SLAM2_HENRI_TP3 Application CentreLoisirs.csproj.CoreCompileInputs.cache
+C:\Users\sio\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\SLAM2_HENRI_TP3 Application CentreLoisirs.csproj.CopyComplete
+C:\Users\sio\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\SLAM2_HENRI_TP3 Application CentreLoisirs.exe
+C:\Users\sio\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\SLAM2_HENRI_TP3 Application CentreLoisirs.pdb
+C:\Users\sio\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\SLAM2_HENRI_TP3_Application_CentreLoisirs.FormListeActivites.resources
+C:\Users\sio\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\SLAM2_HENRI_TP3_Application_CentreLoisirs.FormAccueil.resources
+C:\Users\sio\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\SLAM2_HENRI_TP3_Application_CentreLoisirs.FormModifActivite.resources
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\SLAM2_HENRI_TP3 Application CentreLoisirs.csprojAssemblyReference.cache
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\SLAM2_HENRI_TP3_Application_CentreLoisirs.FormAccueil.resources
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\SLAM2_HENRI_TP3_Application_CentreLoisirs.FormAjoutActivite.resources
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\SLAM2_HENRI_TP3_Application_CentreLoisirs.FormConnexion.resources
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\SLAM2_HENRI_TP3_Application_CentreLoisirs.FormListeActivites.resources
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\SLAM2_HENRI_TP3_Application_CentreLoisirs.FormModifActivite.resources
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\SLAM2_HENRI_TP3_Application_CentreLoisirs.Properties.Resources.resources
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\SLAM2_HENRI_TP3 Application CentreLoisirs.csproj.GenerateResource.cache
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\SLAM2_HENRI_TP3 Application CentreLoisirs.csproj.CoreCompileInputs.cache
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\SLAM2_HENRI_TP3 Application CentreLoisirs.exe
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\SLAM2_HENRI_TP3 Application CentreLoisirs.pdb
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\SLAM2_HENRI_TP3 Application CentreLoisirs.exe.config
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\SLAM2_HENRI_TP3 Application CentreLoisirs.exe.config
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\SLAM2_HENRI_TP3 Application CentreLoisirs.exe
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\SLAM2_HENRI_TP3 Application CentreLoisirs.pdb
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\netstandard.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.AppContext.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Collections.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Collections.Specialized.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.ComponentModel.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Console.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Data.Common.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Globalization.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.IO.Compression.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.IO.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.IO.FileSystem.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.IO.Pipes.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Linq.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Linq.Expressions.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Linq.Parallel.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Linq.Queryable.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Net.Http.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Net.NameResolution.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Net.Ping.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Net.Primitives.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Net.Requests.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Net.Security.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Net.Sockets.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Net.WebSockets.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.ObjectModel.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Reflection.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Resources.Reader.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Resources.Writer.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Runtime.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Runtime.Handles.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Security.Claims.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Security.Principal.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Security.SecureString.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Text.Encoding.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Threading.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Threading.Tasks.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Threading.Thread.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Threading.Timer.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.ValueTuple.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Xml.XDocument.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Xml.XPath.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\SLAM2_HENRI_TP3 Application CentreLoisirs.csproj.CopyComplete
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\SLAM2_HENRI_TP3_Application_CentreLoisirs.FormAjoutEnfant.resources
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\SLAM2_HENRI_TP3 Application CentreLoisirs.csprojFakesResolveAssemblyReference.cache
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\fakes.args
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\fr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\LibClasses.1.0.0.0.Fakes.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\LibClasses.1.0.0.0.Fakes.fakesconfig
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\LibClasses.1.0.0.0.Fakes.pdb
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\LibClasses.1.0.0.0.Fakes.xml
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\LibClasses.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\LibClasses.pdb
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\Microsoft.Win32.Primitives.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\netstandard.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.AppContext.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Collections.Concurrent.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Collections.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Collections.NonGeneric.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Collections.Specialized.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.ComponentModel.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.ComponentModel.EventBasedAsync.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.ComponentModel.Primitives.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.ComponentModel.TypeConverter.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Console.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Data.Common.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Diagnostics.Contracts.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Diagnostics.Debug.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Diagnostics.FileVersionInfo.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Diagnostics.Process.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Diagnostics.StackTrace.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Diagnostics.Tools.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Diagnostics.TraceSource.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Diagnostics.Tracing.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Drawing.Primitives.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Dynamic.Runtime.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Globalization.Calendars.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Globalization.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Globalization.Extensions.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.IO.Compression.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.IO.Compression.ZipFile.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.IO.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.IO.FileSystem.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.IO.FileSystem.DriveInfo.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.IO.FileSystem.Primitives.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.IO.FileSystem.Watcher.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.IO.IsolatedStorage.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.IO.MemoryMappedFiles.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.IO.Pipes.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.IO.UnmanagedMemoryStream.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Linq.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Linq.Expressions.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Linq.Parallel.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Linq.Queryable.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Net.Http.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Net.NameResolution.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Net.NetworkInformation.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Net.Ping.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Net.Primitives.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Net.Requests.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Net.Security.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Net.Sockets.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Net.WebHeaderCollection.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Net.WebSockets.Client.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Net.WebSockets.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.ObjectModel.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Reflection.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Reflection.Extensions.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Reflection.Primitives.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Resources.Reader.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Resources.ResourceManager.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Resources.Writer.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Runtime.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Runtime.Extensions.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Runtime.Handles.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Runtime.InteropServices.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Runtime.Numerics.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Runtime.Serialization.Formatters.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Runtime.Serialization.Json.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Runtime.Serialization.Primitives.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Runtime.Serialization.Xml.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Security.Claims.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Security.Cryptography.Algorithms.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Security.Cryptography.Csp.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Security.Cryptography.Encoding.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Security.Cryptography.Primitives.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Security.Cryptography.X509Certificates.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Security.Principal.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Security.SecureString.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Text.Encoding.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Text.Encoding.Extensions.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Text.RegularExpressions.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Threading.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Threading.Overlapped.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Threading.Tasks.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Threading.Tasks.Parallel.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Threading.Thread.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Threading.ThreadPool.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Threading.Timer.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.ValueTuple.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Xml.ReaderWriter.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Xml.XDocument.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Xml.XmlDocument.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Xml.XmlSerializer.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Xml.XPath.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Xml.XPath.XDocument.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\f.ah
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\f.ch
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\f.cs
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\f.csproj
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\f.fakes
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\f.fakesconfig
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\o\f.csproj.CopyComplete
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\o\f.csproj.CoreCompileInputs.cache
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\o\f.csproj.FileListAbsolute.txt
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\o\f.csprojAssemblyReference.cache
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\o\LibClasses.1.0.0.0.Fakes.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\o\LibClasses.1.0.0.0.Fakes.pdb
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\LibClasses.1.0.0.0.Fakes.fakesconfig
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\LibClasses.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\LibClasses.pdb
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\fr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\coco2\source\repos\SLAM2_HENRI_TP4\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\SLAM2_HENRI_TP3_Application_CentreLoisirs.FormInscriptionActivite.resources
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\SLAM2_HENRI_TP3 Application CentreLoisirs.exe.config
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\SLAM2_HENRI_TP3 Application CentreLoisirs.exe
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\SLAM2_HENRI_TP3 Application CentreLoisirs.pdb
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\LibClasses.1.0.0.0.Fakes.fakesconfig
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\netstandard.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.AppContext.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Collections.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Collections.Specialized.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.ComponentModel.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Console.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Data.Common.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Globalization.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.IO.Compression.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.IO.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.IO.FileSystem.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.IO.Pipes.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Linq.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Linq.Expressions.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Linq.Parallel.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Linq.Queryable.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Net.Http.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Net.NameResolution.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Net.Ping.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Net.Primitives.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Net.Requests.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Net.Security.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Net.Sockets.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Net.WebSockets.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.ObjectModel.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Reflection.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Resources.Reader.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Resources.Writer.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Runtime.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Runtime.Handles.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Security.Claims.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Security.Principal.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Security.SecureString.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Text.Encoding.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Threading.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Threading.Tasks.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Threading.Thread.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Threading.Timer.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.ValueTuple.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Xml.XDocument.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Xml.XPath.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\LibClasses.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\LibClasses.pdb
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\bin\Debug\fr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\SLAM2_HENRI_TP3 Application CentreLoisirs.csprojFakesResolveAssemblyReference.cache
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\fakes.args
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\fr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\LibClasses.1.0.0.0.Fakes.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\LibClasses.1.0.0.0.Fakes.fakesconfig
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\LibClasses.1.0.0.0.Fakes.pdb
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\LibClasses.1.0.0.0.Fakes.xml
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\LibClasses.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\LibClasses.pdb
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\Microsoft.Win32.Primitives.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\netstandard.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.AppContext.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Collections.Concurrent.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Collections.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Collections.NonGeneric.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Collections.Specialized.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.ComponentModel.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.ComponentModel.EventBasedAsync.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.ComponentModel.Primitives.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.ComponentModel.TypeConverter.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Console.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Data.Common.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Diagnostics.Contracts.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Diagnostics.Debug.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Diagnostics.FileVersionInfo.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Diagnostics.Process.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Diagnostics.StackTrace.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Diagnostics.Tools.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Diagnostics.TraceSource.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Diagnostics.Tracing.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Drawing.Primitives.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Dynamic.Runtime.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Globalization.Calendars.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Globalization.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Globalization.Extensions.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.IO.Compression.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.IO.Compression.ZipFile.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.IO.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.IO.FileSystem.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.IO.FileSystem.DriveInfo.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.IO.FileSystem.Primitives.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.IO.FileSystem.Watcher.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.IO.IsolatedStorage.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.IO.MemoryMappedFiles.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.IO.Pipes.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.IO.UnmanagedMemoryStream.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Linq.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Linq.Expressions.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Linq.Parallel.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Linq.Queryable.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Net.Http.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Net.NameResolution.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Net.NetworkInformation.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Net.Ping.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Net.Primitives.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Net.Requests.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Net.Security.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Net.Sockets.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Net.WebHeaderCollection.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Net.WebSockets.Client.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Net.WebSockets.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.ObjectModel.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Reflection.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Reflection.Extensions.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Reflection.Primitives.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Resources.Reader.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Resources.ResourceManager.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Resources.Writer.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Runtime.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Runtime.Extensions.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Runtime.Handles.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Runtime.InteropServices.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Runtime.Numerics.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Runtime.Serialization.Formatters.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Runtime.Serialization.Json.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Runtime.Serialization.Primitives.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Runtime.Serialization.Xml.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Security.Claims.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Security.Cryptography.Algorithms.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Security.Cryptography.Csp.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Security.Cryptography.Encoding.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Security.Cryptography.Primitives.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Security.Cryptography.X509Certificates.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Security.Principal.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Security.SecureString.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Text.Encoding.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Text.Encoding.Extensions.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Text.RegularExpressions.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Threading.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Threading.Overlapped.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Threading.Tasks.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Threading.Tasks.Parallel.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Threading.Thread.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Threading.ThreadPool.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Threading.Timer.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.ValueTuple.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Xml.ReaderWriter.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Xml.XDocument.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Xml.XmlDocument.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Xml.XmlSerializer.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Xml.XPath.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\b\System.Xml.XPath.XDocument.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\f.ah
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\f.ch
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\f.cs
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\f.csproj
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\f.fakes
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\f.fakesconfig
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\o\f.csproj.CopyComplete
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\o\f.csproj.CoreCompileInputs.cache
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\o\f.csproj.FileListAbsolute.txt
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\o\f.csprojAssemblyReference.cache
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\o\LibClasses.1.0.0.0.Fakes.dll
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\Fakes\lc\o\LibClasses.1.0.0.0.Fakes.pdb
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\SLAM2_HENRI_TP3 Application CentreLoisirs.csprojAssemblyReference.cache
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\SLAM2_HENRI_TP3 Application CentreLoisirs.exe.config
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\SLAM2_HENRI_TP3_Application_CentreLoisirs.FormAccueil.resources
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\SLAM2_HENRI_TP3_Application_CentreLoisirs.FormAjoutActivite.resources
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\SLAM2_HENRI_TP3_Application_CentreLoisirs.FormAjoutEnfant.resources
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\SLAM2_HENRI_TP3_Application_CentreLoisirs.FormConnexion.resources
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\SLAM2_HENRI_TP3_Application_CentreLoisirs.FormInscriptionActivite.resources
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\SLAM2_HENRI_TP3_Application_CentreLoisirs.FormListeActivites.resources
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\SLAM2_HENRI_TP3_Application_CentreLoisirs.FormModifActivite.resources
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\SLAM2_HENRI_TP3_Application_CentreLoisirs.Properties.Resources.resources
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\SLAM2_HENRI_TP3 Application CentreLoisirs.csproj.GenerateResource.cache
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\SLAM2_HENRI_TP3 Application CentreLoisirs.csproj.CoreCompileInputs.cache
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\SLAM2_HENRI_TP3 Application CentreLoisirs.csproj.CopyComplete
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\SLAM2_HENRI_TP3 Application CentreLoisirs.exe
+C:\Users\coco2\source\repos\SLAM2_TP3_CentreDeLoisirs\SLAM2_HENRI_TP3 Application CentreLoisirs\obj\Debug\SLAM2_HENRI_TP3 Application CentreLoisirs.pdb

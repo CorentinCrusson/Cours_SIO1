@@ -1,0 +1,230 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>LibClasses.1.0.0.0.Fakes</name>
+    </assembly>
+    <members>
+        <member name="T:SLAM2_Henri_LibClasses.Fakes.ShimClassActivite">
+            <summary>Type shim de SLAM2_Henri_LibClasses.ClassActivite</summary>
+        </member>
+        <member name="M:SLAM2_Henri_LibClasses.Fakes.ShimClassActivite.#ctor">
+            <summary>Initialise une nouvelle instance de shim</summary>
+        </member>
+        <member name="M:SLAM2_Henri_LibClasses.Fakes.ShimClassActivite.#ctor(SLAM2_Henri_LibClasses.ClassActivite)">
+            <summary>Initialise un nouveau shim pour l&apos;instance donnée</summary>
+        </member>
+        <member name="P:SLAM2_Henri_LibClasses.Fakes.ShimClassActivite.AjouterUnParticipantClassEnfant">
+            <summary>Définit le shim de ClassActivite.AjouterUnParticipant(ClassEnfant unEnfant)</summary>
+        </member>
+        <member name="T:SLAM2_Henri_LibClasses.Fakes.ShimClassActivite.AllInstances">
+            <summary>Définir des shims pour tous les membres des instances</summary>
+        </member>
+        <member name="P:SLAM2_Henri_LibClasses.Fakes.ShimClassActivite.AllInstances.AjouterUnParticipantClassEnfant">
+            <summary>Définit le shim de ClassActivite.AjouterUnParticipant(ClassEnfant unEnfant)</summary>
+        </member>
+        <member name="P:SLAM2_Henri_LibClasses.Fakes.ShimClassActivite.AllInstances.Est_Complete">
+            <summary>Définit le shim de ClassActivite.Est_Complete()</summary>
+        </member>
+        <member name="P:SLAM2_Henri_LibClasses.Fakes.ShimClassActivite.AllInstances.getAnimateur">
+            <summary>Définit le shim de ClassActivite.getAnimateur()</summary>
+        </member>
+        <member name="P:SLAM2_Henri_LibClasses.Fakes.ShimClassActivite.AllInstances.getDateAct">
+            <summary>Définit le shim de ClassActivite.getDateAct()</summary>
+        </member>
+        <member name="P:SLAM2_Henri_LibClasses.Fakes.ShimClassActivite.AllInstances.getLibelle">
+            <summary>Définit le shim de ClassActivite.getLibelle()</summary>
+        </member>
+        <member name="P:SLAM2_Henri_LibClasses.Fakes.ShimClassActivite.AllInstances.getNbMaxParticipants">
+            <summary>Définit le shim de ClassActivite.getNbMaxParticipants()</summary>
+        </member>
+        <member name="P:SLAM2_Henri_LibClasses.Fakes.ShimClassActivite.AllInstances.getNbParticipants">
+            <summary>Définit le shim de ClassActivite.getNbParticipants()</summary>
+        </member>
+        <member name="P:SLAM2_Henri_LibClasses.Fakes.ShimClassActivite.AllInstances.getNum">
+            <summary>Définit le shim de ClassActivite.getNum()</summary>
+        </member>
+        <member name="P:SLAM2_Henri_LibClasses.Fakes.ShimClassActivite.AllInstances.getTrancheAge">
+            <summary>Définit le shim de ClassActivite.getTrancheAge()</summary>
+        </member>
+        <member name="P:SLAM2_Henri_LibClasses.Fakes.ShimClassActivite.AllInstances.setAnimateurString">
+            <summary>Définit le shim de ClassActivite.setAnimateur(String LAnimateur)</summary>
+        </member>
+        <member name="P:SLAM2_Henri_LibClasses.Fakes.ShimClassActivite.AllInstances.setDateActString">
+            <summary>Définit le shim de ClassActivite.setDateAct(String dateAct)</summary>
+        </member>
+        <member name="P:SLAM2_Henri_LibClasses.Fakes.ShimClassActivite.AllInstances.setLibelleActiviteString">
+            <summary>Définit le shim de ClassActivite.setLibelleActivite(String libelle)</summary>
+        </member>
+        <member name="P:SLAM2_Henri_LibClasses.Fakes.ShimClassActivite.AllInstances.setNbMaxPartInt32">
+            <summary>Définit le shim de ClassActivite.setNbMaxPart(Int32 nbMax)</summary>
+        </member>
+        <member name="P:SLAM2_Henri_LibClasses.Fakes.ShimClassActivite.AllInstances.setTrancheAgeInt32">
+            <summary>Définit le shim de ClassActivite.setTrancheAge(Int32 tranche)</summary>
+        </member>
+        <member name="M:SLAM2_Henri_LibClasses.Fakes.ShimClassActivite.BehaveAsCurrent">
+            <summary>Attribue le comportement &apos;Current&apos; à toutes les méthodes du type ayant fait l&apos;objet d&apos;un shim</summary>
+        </member>
+        <member name="M:SLAM2_Henri_LibClasses.Fakes.ShimClassActivite.BehaveAsNotImplemented">
+            <summary>Attribue le comportement &apos;NotImplemented&apos; à toutes les méthodes du type ayant fait l&apos;objet d&apos;un shim</summary>
+        </member>
+        <member name="P:SLAM2_Henri_LibClasses.Fakes.ShimClassActivite.Behavior">
+            <summary>Attribue le comportement à toutes les méthodes du type ayant fait l&apos;objet d&apos;un shim</summary>
+        </member>
+        <member name="P:SLAM2_Henri_LibClasses.Fakes.ShimClassActivite.ConstructorInt32StringString">
+            <summary>Définit le shim de ClassActivite.ClassActivite(Int32 numA, String lib, String dateAct)</summary>
+        </member>
+        <member name="P:SLAM2_Henri_LibClasses.Fakes.ShimClassActivite.Est_Complete">
+            <summary>Définit le shim de ClassActivite.Est_Complete()</summary>
+        </member>
+        <member name="P:SLAM2_Henri_LibClasses.Fakes.ShimClassActivite.getAnimateur">
+            <summary>Définit le shim de ClassActivite.getAnimateur()</summary>
+        </member>
+        <member name="P:SLAM2_Henri_LibClasses.Fakes.ShimClassActivite.getDateAct">
+            <summary>Définit le shim de ClassActivite.getDateAct()</summary>
+        </member>
+        <member name="P:SLAM2_Henri_LibClasses.Fakes.ShimClassActivite.getLibelle">
+            <summary>Définit le shim de ClassActivite.getLibelle()</summary>
+        </member>
+        <member name="P:SLAM2_Henri_LibClasses.Fakes.ShimClassActivite.getNbMaxParticipants">
+            <summary>Définit le shim de ClassActivite.getNbMaxParticipants()</summary>
+        </member>
+        <member name="P:SLAM2_Henri_LibClasses.Fakes.ShimClassActivite.getNbParticipants">
+            <summary>Définit le shim de ClassActivite.getNbParticipants()</summary>
+        </member>
+        <member name="P:SLAM2_Henri_LibClasses.Fakes.ShimClassActivite.getNum">
+            <summary>Définit le shim de ClassActivite.getNum()</summary>
+        </member>
+        <member name="P:SLAM2_Henri_LibClasses.Fakes.ShimClassActivite.getTrancheAge">
+            <summary>Définit le shim de ClassActivite.getTrancheAge()</summary>
+        </member>
+        <member name="P:SLAM2_Henri_LibClasses.Fakes.ShimClassActivite.setAnimateurString">
+            <summary>Définit le shim de ClassActivite.setAnimateur(String LAnimateur)</summary>
+        </member>
+        <member name="P:SLAM2_Henri_LibClasses.Fakes.ShimClassActivite.setDateActString">
+            <summary>Définit le shim de ClassActivite.setDateAct(String dateAct)</summary>
+        </member>
+        <member name="P:SLAM2_Henri_LibClasses.Fakes.ShimClassActivite.setLibelleActiviteString">
+            <summary>Définit le shim de ClassActivite.setLibelleActivite(String libelle)</summary>
+        </member>
+        <member name="P:SLAM2_Henri_LibClasses.Fakes.ShimClassActivite.setNbMaxPartInt32">
+            <summary>Définit le shim de ClassActivite.setNbMaxPart(Int32 nbMax)</summary>
+        </member>
+        <member name="P:SLAM2_Henri_LibClasses.Fakes.ShimClassActivite.setTrancheAgeInt32">
+            <summary>Définit le shim de ClassActivite.setTrancheAge(Int32 tranche)</summary>
+        </member>
+        <member name="T:SLAM2_Henri_LibClasses.Fakes.ShimClassEnfant">
+            <summary>Type shim de SLAM2_Henri_LibClasses.ClassEnfant</summary>
+        </member>
+        <member name="M:SLAM2_Henri_LibClasses.Fakes.ShimClassEnfant.#ctor">
+            <summary>Initialise une nouvelle instance de shim</summary>
+        </member>
+        <member name="M:SLAM2_Henri_LibClasses.Fakes.ShimClassEnfant.#ctor(SLAM2_Henri_LibClasses.ClassEnfant)">
+            <summary>Initialise un nouveau shim pour l&apos;instance donnée</summary>
+        </member>
+        <member name="T:SLAM2_Henri_LibClasses.Fakes.ShimClassEnfant.AllInstances">
+            <summary>Définir des shims pour tous les membres des instances</summary>
+        </member>
+        <member name="P:SLAM2_Henri_LibClasses.Fakes.ShimClassEnfant.AllInstances.donneTrancheAge">
+            <summary>Définit le shim de ClassEnfant.donneTrancheAge()</summary>
+        </member>
+        <member name="P:SLAM2_Henri_LibClasses.Fakes.ShimClassEnfant.AllInstances.getNom">
+            <summary>Définit le shim de ClassEnfant.getNom()</summary>
+        </member>
+        <member name="P:SLAM2_Henri_LibClasses.Fakes.ShimClassEnfant.AllInstances.getNum">
+            <summary>Définit le shim de ClassEnfant.getNum()</summary>
+        </member>
+        <member name="P:SLAM2_Henri_LibClasses.Fakes.ShimClassEnfant.AllInstances.getPrenom">
+            <summary>Définit le shim de ClassEnfant.getPrenom()</summary>
+        </member>
+        <member name="P:SLAM2_Henri_LibClasses.Fakes.ShimClassEnfant.AllInstances.getTrancheAge">
+            <summary>Définit le shim de ClassEnfant.getTrancheAge()</summary>
+        </member>
+        <member name="P:SLAM2_Henri_LibClasses.Fakes.ShimClassEnfant.AllInstances.setNomString">
+            <summary>Définit le shim de ClassEnfant.setNom(String nomE)</summary>
+        </member>
+        <member name="P:SLAM2_Henri_LibClasses.Fakes.ShimClassEnfant.AllInstances.setNumInt32">
+            <summary>Définit le shim de ClassEnfant.setNum(Int32 numE)</summary>
+        </member>
+        <member name="P:SLAM2_Henri_LibClasses.Fakes.ShimClassEnfant.AllInstances.setPrenomString">
+            <summary>Définit le shim de ClassEnfant.setPrenom(String prenomE)</summary>
+        </member>
+        <member name="P:SLAM2_Henri_LibClasses.Fakes.ShimClassEnfant.AllInstances.setTrancheAgeInt32">
+            <summary>Définit le shim de ClassEnfant.setTrancheAge(Int32 trancheAge)</summary>
+        </member>
+        <member name="M:SLAM2_Henri_LibClasses.Fakes.ShimClassEnfant.BehaveAsCurrent">
+            <summary>Attribue le comportement &apos;Current&apos; à toutes les méthodes du type ayant fait l&apos;objet d&apos;un shim</summary>
+        </member>
+        <member name="M:SLAM2_Henri_LibClasses.Fakes.ShimClassEnfant.BehaveAsNotImplemented">
+            <summary>Attribue le comportement &apos;NotImplemented&apos; à toutes les méthodes du type ayant fait l&apos;objet d&apos;un shim</summary>
+        </member>
+        <member name="P:SLAM2_Henri_LibClasses.Fakes.ShimClassEnfant.Behavior">
+            <summary>Attribue le comportement à toutes les méthodes du type ayant fait l&apos;objet d&apos;un shim</summary>
+        </member>
+        <member name="P:SLAM2_Henri_LibClasses.Fakes.ShimClassEnfant.ConstructorInt32StringStringInt32">
+            <summary>Définit le shim de ClassEnfant.ClassEnfant(Int32 numE, String nomE, String prenomE, Int32 t_ageE)</summary>
+        </member>
+        <member name="P:SLAM2_Henri_LibClasses.Fakes.ShimClassEnfant.donneTrancheAge">
+            <summary>Définit le shim de ClassEnfant.donneTrancheAge()</summary>
+        </member>
+        <member name="P:SLAM2_Henri_LibClasses.Fakes.ShimClassEnfant.getNom">
+            <summary>Définit le shim de ClassEnfant.getNom()</summary>
+        </member>
+        <member name="P:SLAM2_Henri_LibClasses.Fakes.ShimClassEnfant.getNum">
+            <summary>Définit le shim de ClassEnfant.getNum()</summary>
+        </member>
+        <member name="P:SLAM2_Henri_LibClasses.Fakes.ShimClassEnfant.getPrenom">
+            <summary>Définit le shim de ClassEnfant.getPrenom()</summary>
+        </member>
+        <member name="P:SLAM2_Henri_LibClasses.Fakes.ShimClassEnfant.getTrancheAge">
+            <summary>Définit le shim de ClassEnfant.getTrancheAge()</summary>
+        </member>
+        <member name="P:SLAM2_Henri_LibClasses.Fakes.ShimClassEnfant.setNomString">
+            <summary>Définit le shim de ClassEnfant.setNom(String nomE)</summary>
+        </member>
+        <member name="P:SLAM2_Henri_LibClasses.Fakes.ShimClassEnfant.setNumInt32">
+            <summary>Définit le shim de ClassEnfant.setNum(Int32 numE)</summary>
+        </member>
+        <member name="P:SLAM2_Henri_LibClasses.Fakes.ShimClassEnfant.setPrenomString">
+            <summary>Définit le shim de ClassEnfant.setPrenom(String prenomE)</summary>
+        </member>
+        <member name="P:SLAM2_Henri_LibClasses.Fakes.ShimClassEnfant.setTrancheAgeInt32">
+            <summary>Définit le shim de ClassEnfant.setTrancheAge(Int32 trancheAge)</summary>
+        </member>
+        <member name="T:SLAM2_Henri_LibClasses.Fakes.StubClassActivite">
+            <summary>Type stub de SLAM2_Henri_LibClasses.ClassActivite</summary>
+        </member>
+        <member name="M:SLAM2_Henri_LibClasses.Fakes.StubClassActivite.#ctor(System.Int32,System.String,System.String)">
+            <summary>Initialise une nouvelle instance</summary>
+        </member>
+        <member name="P:SLAM2_Henri_LibClasses.Fakes.StubClassActivite.CallBase">
+            <summary>Obtient ou définit une valeur qui indique si la méthode de base doit être appelée à la place du comportement de secours</summary>
+        </member>
+        <member name="M:SLAM2_Henri_LibClasses.Fakes.StubClassActivite.InitializeStub">
+            <summary>Initialise une nouvelle instance de type StubClassActivite</summary>
+        </member>
+        <member name="P:SLAM2_Henri_LibClasses.Fakes.StubClassActivite.InstanceBehavior">
+            <summary>Obtient ou définit le comportement de l&apos;instance.</summary>
+        </member>
+        <member name="P:SLAM2_Henri_LibClasses.Fakes.StubClassActivite.InstanceObserver">
+            <summary>Obtient ou définit l&apos;observateur d&apos;instance.</summary>
+        </member>
+        <member name="T:SLAM2_Henri_LibClasses.Fakes.StubClassEnfant">
+            <summary>Type stub de SLAM2_Henri_LibClasses.ClassEnfant</summary>
+        </member>
+        <member name="M:SLAM2_Henri_LibClasses.Fakes.StubClassEnfant.#ctor(System.Int32,System.String,System.String,System.Int32)">
+            <summary>Initialise une nouvelle instance</summary>
+        </member>
+        <member name="P:SLAM2_Henri_LibClasses.Fakes.StubClassEnfant.CallBase">
+            <summary>Obtient ou définit une valeur qui indique si la méthode de base doit être appelée à la place du comportement de secours</summary>
+        </member>
+        <member name="M:SLAM2_Henri_LibClasses.Fakes.StubClassEnfant.InitializeStub">
+            <summary>Initialise une nouvelle instance de type StubClassEnfant</summary>
+        </member>
+        <member name="P:SLAM2_Henri_LibClasses.Fakes.StubClassEnfant.InstanceBehavior">
+            <summary>Obtient ou définit le comportement de l&apos;instance.</summary>
+        </member>
+        <member name="P:SLAM2_Henri_LibClasses.Fakes.StubClassEnfant.InstanceObserver">
+            <summary>Obtient ou définit l&apos;observateur d&apos;instance.</summary>
+        </member>
+    </members>
+</doc>
